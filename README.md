@@ -80,7 +80,7 @@
 <br>
 
 ## 📌 서비스 흐름도
-![image](https://user-images.githubusercontent.com/25995055/178401048-d6484bda-a2d7-40e1-998b-2bd195cd9f89.png)
+![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/b59e93d7-6d3b-4978-862c-0840355210f1)
 <br>
 
 
