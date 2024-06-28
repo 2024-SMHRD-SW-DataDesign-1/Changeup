@@ -72,7 +72,7 @@
 <br>
 
 ## 📌 SW유스케이스
-![image](C:/Users/USER/Desktop/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82/Read_me/UseCase.png)
+![image](%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82/Read_me/UseCase.png)
 <br>
 
 ## 📌 서비스 흐름도
