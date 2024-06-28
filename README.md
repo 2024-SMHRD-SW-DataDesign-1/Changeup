@@ -76,7 +76,7 @@
 <br>
 
 ## 📌 ER다이어그램
-![image]((https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/907a8644-79b7-4ab2-8f4c-47ea70ee3850))
+![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/907a8644-79b7-4ab2-8f4c-47ea70ee3850)
 <br>
 
 ## 📌 서비스 흐름도
