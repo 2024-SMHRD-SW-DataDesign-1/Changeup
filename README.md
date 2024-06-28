@@ -93,18 +93,6 @@
 ![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/5a95544a-6813-4a9c-9e82-7b8c84b359b7)
 <br>
 
-### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
-![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
-<br>
-
-### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
-![image](https://user-images.githubusercontent.com/25995055/178401127-287e6de2-4396-49fc-a107-59c4d5cd55c7.png)
-<br>
-
-### 일정/고객센터
-![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
-<br>
-
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
@@ -113,14 +101,14 @@
     <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>홍O동</strong></td>
+    <td align="center"><strong>김도연</strong></td>
     <td align="center"><strong>이준서</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
+    <td align="center"><strong>최우준</strong></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Python</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
