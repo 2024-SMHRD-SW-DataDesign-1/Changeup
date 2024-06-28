@@ -72,11 +72,11 @@
 <br>
 
 ## 📌 SW유스케이스
-![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/be9a704c-baf0-4b38-be22-df4dab2a0bf5)
+![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/d209a8a0-a687-41bb-bf48-3cfd62f006c8)
 <br>
 
 ## 📌 ER다이어그램
-![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/d209a8a0-a687-41bb-bf48-3cfd62f006c8)
+![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/e00c2884-6f9d-4121-ba29-2542f9ab8137)
 <br>
 
 ## 📌 서비스 흐름도
