@@ -85,6 +85,9 @@
 
 
 ## 🖥 화면 구성
+### 구현화면 - 상권정보
+![image](https://github.com/2024-SMHRD-SW-DataDesign-1/Changeup/assets/167040678/5a95544a-6813-4a9c-9e82-7b8c84b359b7)
+<br>
 
 ### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
 ![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
