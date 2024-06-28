@@ -23,7 +23,7 @@
     <tr>
         <td>사용언어</td>
         <td>
-            <img src="C:\Users\USER\Desktop\프로젝트2\Read_me?style=for-the-badge&logo=java&logoColor=white"/>
+            <img src="?style=for-the-badge&logo=java&logoColor=white"/>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -72,7 +72,7 @@
 <br>
 
 ## 📌 SW유스케이스
-![image](https://user-images.githubusercontent.com/25995055/178401023-9a015e66-aa6e-4d74-8564-9b1f9d306649.png)
+![image](C:\Users\USER\Desktop\프로젝트2\Read_me)
 <br>
 
 ## 📌 서비스 흐름도
